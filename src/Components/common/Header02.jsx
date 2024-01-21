@@ -15,8 +15,8 @@ const Header02 = () => {
                     <div className="container">
                         <div className="middle_bar_inner">
                             <div className="logo">
-                                <a href="/" className="light_mode_logo"><img src="images/logo.svg" alt="logo" /></a>
-                                <a href="/" className="dark_mode_logo"><img src="images/logo_foot.svg" alt="logo" /></a>
+                                <a href="/" className="light_mode_logo"><img src="images/Skct_logo.jpg" alt="logo" /></a>
+                                <a href="/" className="dark_mode_logo"><img src="images/Skct_logo.jpg" alt="logo" /></a>
                             </div>
 
                             <div className="header_right_part">
@@ -72,7 +72,7 @@ const Header02 = () => {
                                 </div>
                                 <div className="phone phn_color">
                                     <i className="fa fa-phone" aria-hidden="true"></i>
-                                    <div><span>Call Us Anytime</span><br /><span className="phn_number">(+123)987.654.32</span></div>
+                                    <div><span>Call Us Anytime</span><br /><span className="phn_number">(917)-561-8956</span></div>
                                 </div>
                                 <div className="header_search" onClick={handleToggle}>
                                     <button type="submit" className="form-control-submit"><i className="ion-ios-search"></i></button>

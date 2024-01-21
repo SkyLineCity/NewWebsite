@@ -87,12 +87,6 @@ const Footer = () => {
                         <div className="copyright">
                             <p>&copy;2024 Website Designed & Maintained <a>by</a> AG Webdesign.</p>
                         </div>
-                        <div className="footer_nav_bottom">
-                            <ul>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                            </ul>
-                        </div>
                         <div className="totop">
                             <a href="#"><i className="ion-ios-arrow-up"></i></a>
                         </div>
