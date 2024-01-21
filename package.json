@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-transform-private-methods": "^7.23.3",
     "@emailjs/browser": "^3.12.1",
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@react-google-maps/api": "^2.18.1",
