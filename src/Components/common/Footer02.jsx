@@ -40,7 +40,7 @@ const Footer02 = () => {
                         <div className="col-lg-4 col-md-6 col-sm-12">
                             <div className="footer_widget2">
                                 <div className="logo">
-                                    <a href="/"><img src="images/logo_foot.svg" alt="Logo" /></a>
+                                    <a href="/"><img src="images/Skct_logo.jpg" alt="Logo" /></a>
                                 </div>
                                 <p>Who are looking for Extraordinary projects need vision & precision to be exceptional. They need Builderrine Construction Services.</p>
                                 <div className="side_footer_social">
@@ -93,13 +93,7 @@ const Footer02 = () => {
                 <div className="container">
                     <div className="footer_bottom_inner">
                         <div className="copyright">
-                            <p>&copy;2023 <a href="https://themeforest.net/user/wpthemebooster">WPThemeBooster.</a> All rights reserved.</p>
-                        </div>
-                        <div className="footer_nav_bottom">
-                            <ul>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                            </ul>
+                            <p>&copy;2024 Website Designed & Maintained <a>by</a> AG Webdesign.</p>
                         </div>
                         <div className="totop">
                             <a href="#"><i className="ion-ios-arrow-up"></i></a>
