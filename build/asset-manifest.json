@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97d3fb47.css",
+    "main.js": "/static/js/main.df457414.js",
+    "static/js/205.5c0a4801.chunk.js": "/static/js/205.5c0a4801.chunk.js",
+    "static/js/787.bed44058.chunk.js": "/static/js/787.bed44058.chunk.js",
+    "static/media/bg_con.png": "/static/media/bg_con.06cb21d647fd63e3cc6d.png",
+    "static/media/bg3.png": "/static/media/bg3.1812c68d29e038e7c36f.png",
+    "static/media/ionicons.svg?v=2.0.0": "/static/media/ionicons.b45d332f6829d6813600.svg",
+    "static/media/header_bg.png": "/static/media/header_bg.be805718ddfbec243a1b.png",
+    "static/media/abt.png": "/static/media/abt.bf05ed2cb5d85a3e13e1.png",
+    "static/media/ionicons.ttf?v=2.0.0": "/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
+    "static/media/bg1.jpg": "/static/media/bg1.8ccebce3c78ed6942922.jpg",
+    "static/media/footer_bg.png": "/static/media/footer_bg.f3deafd5b74e4f03a415.png",
+    "static/media/bg4.jpg": "/static/media/bg4.38ad9d3ff5d8c35ef68a.jpg",
+    "static/media/c1.png": "/static/media/c1.799ac93b4ac06d5383b3.png",
+    "static/media/fontawesome-webfont.ttf": "/static/media/fontawesome-webfont.cc195bf2a91cc42ef8b0.ttf",
+    "static/media/bg3.jpg": "/static/media/bg3.4ddb55fb15c9ac040552.jpg",
+    "static/media/ionicons.eot?v=2.0.0": "/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
+    "static/media/bg2.jpg": "/static/media/bg2.8cf95be08d43e7ca811b.jpg",
+    "static/media/fontawesome-webfont.woff": "/static/media/fontawesome-webfont.bd22d2cb8a446a7c7fc7.woff",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.3375612c4cf30ad5a469.eot",
+    "static/media/fontawesome-webfont.woff2": "/static/media/fontawesome-webfont.18e6c4004de1611435f2.woff2",
+    "static/media/ionicons.woff?v=2.0.0": "/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/bg.png": "/static/media/bg.4bdf3be35402eb16676c.png",
+    "static/media/fun_frame.png": "/static/media/fun_frame.b8384aa67d68cdc9f303.png",
+    "static/media/bg1.png": "/static/media/bg1.c31c0bde542b5b8c5e58.png",
+    "static/media/bg4.png": "/static/media/bg4.922983223e0dd66b0e9a.png",
+    "static/media/bg5.png": "/static/media/bg5.2e2bf2650e05b8ed135d.png",
+    "index.html": "/index.html",
+    "main.97d3fb47.css.map": "/static/css/main.97d3fb47.css.map",
+    "main.df457414.js.map": "/static/js/main.df457414.js.map",
+    "205.5c0a4801.chunk.js.map": "/static/js/205.5c0a4801.chunk.js.map",
+    "787.bed44058.chunk.js.map": "/static/js/787.bed44058.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d3fb47.css",
+    "static/js/main.df457414.js"
+  ]
+}
