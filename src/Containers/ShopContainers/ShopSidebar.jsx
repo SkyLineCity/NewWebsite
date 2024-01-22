@@ -186,7 +186,7 @@ const ShopSidebar = () => {
                                 <img className="primary_img" src="images/shop/thumbs/thumb_1.png" alt="" />
                             </div>
                             <div className="popular_product_content">
-                                <h5 className="product_title"><a href="#">Road Divider</a></h5>
+                                <h5 className="product_title"><a href="/">Road Divider</a></h5>
                                 <h6 className="product_price">$22.00</h6>
                             </div>
                         </li>
@@ -195,7 +195,7 @@ const ShopSidebar = () => {
                                 <img className="primary_img" src="images/shop/thumbs/thumb_2.png" alt="" />
                             </div>
                             <div className="popular_product_content">
-                                <h5 className="product_title"><a href="#">Life Vest</a></h5>
+                                <h5 className="product_title"><a href="/">Life Vest</a></h5>
                                 <h6 className="product_price">$22.00</h6>
                             </div>
                         </li>
@@ -204,7 +204,7 @@ const ShopSidebar = () => {
                                 <img className="primary_img" src="images/shop/thumbs/thumb_3.png" alt="" />
                             </div>
                             <div className="popular_product_content">
-                                <h5 className="product_title"><a href="#">Construction Helmet</a></h5>
+                                <h5 className="product_title"><a href="/">Construction Helmet</a></h5>
                                 <h6 className="product_price">$22.00</h6>
                             </div>
                         </li>
@@ -219,13 +219,13 @@ const ShopSidebar = () => {
                 </h4>
                 <div className="sidebar_tags">
                     <ul className="tag_list">
-                        <li><a href="#">Drill</a></li>
-                        <li><a href="#">Hammer</a></li>
-                        <li><a href="#">Helmet</a></li>
-                        <li><a href="#">Roller</a></li>
-                        <li><a href="#">Bucket</a></li>
-                        <li><a href="#">Paint</a></li>
-                        <li><a href="#">Truck</a></li>
+                        <li><a href="/">Drill</a></li>
+                        <li><a href="/">Hammer</a></li>
+                        <li><a href="/">Helmet</a></li>
+                        <li><a href="/">Roller</a></li>
+                        <li><a href="/">Bucket</a></li>
+                        <li><a href="/">Paint</a></li>
+                        <li><a href="/">Truck</a></li>
                     </ul>
                 </div>
             </div>

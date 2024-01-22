@@ -1,5 +1,5 @@
 import React from 'react';
-import ServiceCard02_01 from '../../Components/ServiceCards/ServiceCard02_01';
+import ServiceCard0201 from '../../Components/ServiceCards/ServiceCard02_01';
 import PaginationDiv from '../../Components/TeamElements/PaginationDiv';
 
 const ServiceContainer01 = () => {
@@ -76,7 +76,7 @@ const ServiceContainer01 = () => {
                     <div className="row">
                         {
                             ServiceData01.map(data =>
-                                <ServiceCard02_01
+                                <ServiceCard0201
                                     key={data.id}
                                     data={data}
                                 />

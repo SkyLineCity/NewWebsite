@@ -10,7 +10,7 @@ const ShopFilter = () => {
         $(".product_view_list .load_more").on("click", function (e) {
             e.preventDefault();
             $(".product_view_list .product_item:hidden").slice(0, 3).slideDown();
-            if ($(".product_view_list .product_item:hidden").length == 0) {
+            if ($(".product_view_list .product_item:hidden").length === 0) {
                 $(".product_view_list .load_more").css('display', 'none');
             }
         });
@@ -40,10 +40,10 @@ const ShopFilter = () => {
             <div className="view_type_wrapper d-flex align-items-center">
                 <ul className="nav view_type d-flex align-items-center">
                     <li>
-                        <a className="icon-grid active" id="grid-tab" data-bs-toggle="tab" href="#grid"><i className="fa fa-th" aria-hidden="true"></i></a>
+                    <a className="icon-grid active" id="grid-tab" data-bs-toggle="tab" href="#grid" aria-label="Grid View"><i className="fa fa-th" aria-hidden="true"></i></a>
                     </li>
                     <li>
-                        <a className="icon-list" id="list-tab" data-bs-toggle="tab" href="#list"><i className="fa fa-th-list" aria-hidden="true"></i></a>
+                    <a className="icon-list" id="list-tab" data-bs-toggle="tab" href="#list" aria-label="List View"><i className="fa fa-th-list" aria-hidden="true"></i></a>
                     </li>
                 </ul>
                 <div className="showing_results">

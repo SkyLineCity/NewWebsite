@@ -32,7 +32,7 @@ const CartContainer = () => {
                                     </div>
                                 </td>
                                 <td class="cart_total">$<span class="product_total_price">15</span></td>
-                                <td class="cart_removal"><a href="#"><i class="ion-android-close"></i></a></td>
+                                <td class="cart_removal"><a href="/"><i class="ion-android-close"></i></a></td>
                             </tr>
                             <tr class="cart_content">
                                 <td class="cart_image"><img src="images/shop/products/2-1.jpg" alt="" /></td>
@@ -50,7 +50,7 @@ const CartContainer = () => {
                                     </div>
                                 </td>
                                 <td class="cart_total">$<span class="product_total_price">17</span></td>
-                                <td class="cart_removal"><a href="#"><i class="ion-android-close"></i></a></td>
+                                <td class="cart_removal"><a href="/"><i class="ion-android-close"></i></a></td>
                             </tr>
                             <tr class="cart_content">
                                 <td class="cart_image"><img src="images/shop/products/3-1.jpg" alt="" /></td>
@@ -68,7 +68,7 @@ const CartContainer = () => {
                                     </div>
                                 </td>
                                 <td class="cart_total">$<span class="product_total_price">15</span></td>
-                                <td class="cart_removal"><a href="#"><i class="ion-android-close"></i></a></td>
+                                <td class="cart_removal"><a href="/"><i class="ion-android-close"></i></a></td>
                             </tr>
                             <tr class="cart_content">
                                 <td class="cart_image"><img src="images/shop/products/4-2.jpg" alt="" /></td>
@@ -86,7 +86,7 @@ const CartContainer = () => {
                                     </div>
                                 </td>
                                 <td class="cart_total">$<span class="product_total_price">17</span></td>
-                                <td class="cart_removal"><a href="#"><i class="ion-android-close"></i></a></td>
+                                <td class="cart_removal"><a href="/"><i class="ion-android-close"></i></a></td>
                             </tr>
                         </table>
                         <div class="couponcart">

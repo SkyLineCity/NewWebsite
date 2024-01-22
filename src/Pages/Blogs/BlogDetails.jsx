@@ -13,7 +13,7 @@ const BlogDetails = () => {
                         <div className="post_img">
                             <img src="images/blog/3.png" alt="blog" />
                             <div className="calendar">
-                                <a href="#"><span className="date">30</span><br />May</a>
+                                <a href="/"><span className="date">30</span><br />May</a>
                             </div>
                         </div>
                         <div className="row">
@@ -98,11 +98,11 @@ const BlogDetails = () => {
                                             <div className="post_share">
                                                 <ul className="share_list">
                                                     <li>Share:</li>
-                                                    <li className="facebook"><a href="#">Facebook</a></li>
-                                                    <li className="twitter"><a href="#">Twitter</a></li>
-                                                    <li className="pinterest"><a href="#">Pinterest</a></li>
-                                                    <li className="instagram"><a href="#">Instagram</a></li>
-                                                    <li className="linkedin"><a href="#">Linkedin</a></li>
+                                                    <li className="facebook"><a href="https://www.instagram.com/skylinecity_team/">Facebook</a></li>
+                                                    <li className="twitter"><a href="https://www.instagram.com/skylinecity_team/">Twitter</a></li>
+                                                    <li className="pinterest"><a href="https://www.instagram.com/skylinecity_team/">Pinterest</a></li>
+                                                    <li className="instagram"><a href="https://www.instagram.com/skylinecity_team/">Instagram</a></li>
+                                                    <li className="linkedin"><a href="https://www.instagram.com/skylinecity_team/">Linkedin</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -119,10 +119,10 @@ const BlogDetails = () => {
                                             <p className="author_intro">Install a sensor light to turn on as you enter the driveway and approach the garage. Not only will it prove a burglar deterrent it will also assist.</p>
                                             <div className="social_media">
                                                 <ul className="social_list">
-                                                    <li><a href="#"><i className="ion-social-facebook"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-twitter"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-dribbble-outline"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-instagram-outline"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-facebook"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-twitter"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-dribbble-outline"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-instagram-outline"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -142,7 +142,7 @@ const BlogDetails = () => {
                                                         <img alt="img" src="images/blog/commenter1.png" className="avatar" />
                                                     </div>
                                                     <div className="comment_block">
-                                                        <h4 className="commenter_name">Patric Doe <span className="reply"><a href="#" className="reply" >Reply</a></span></h4>
+                                                        <h4 className="commenter_name">Patric Doe <span className="reply"><a href="https://www.instagram.com/skylinecity_team/" className="reply" >Reply</a></span></h4>
                                                         <p className="commenter_review">As the world continues to fight COVID-19 some are for way they can improve the security of their buildings.</p>
                                                         <h6 className="comment_date">17 Apr 2020</h6>
                                                     </div>
@@ -155,7 +155,7 @@ const BlogDetails = () => {
                                                                 <img alt="img" src="images/blog/commenter2.png" className="avatar" />
                                                             </div>
                                                             <div className="comment_block">
-                                                                <h4 className="commenter_name">Jelian Macardo <span className="reply"><a href="#" className="reply" >Reply</a></span></h4>
+                                                                <h4 className="commenter_name">Jelian Macardo <span className="reply"><a href="/" className="reply" >Reply</a></span></h4>
                                                                 <p className="commenter_review">Lorem ipsum dolor sit amet. Ut enim ad minima veniam
                                                                     quis nostrum exercitationem mosequatu autem.</p>
                                                                 <h6 className="comment_date">17 Apr 2020</h6>
@@ -170,7 +170,7 @@ const BlogDetails = () => {
                                                         <img alt="img" src="images/blog/commenter1.png" className="avatar" />
                                                     </div>
                                                     <div className="comment_block">
-                                                        <h4 className="commenter_name">Patric Doe <span className="reply"><a href="#" className="reply" >Reply</a></span></h4>
+                                                        <h4 className="commenter_name">Patric Doe <span className="reply"><a href="/" className="reply" >Reply</a></span></h4>
                                                         <p className="commenter_review">Lorem dolor sit amet. Ut enim ad minima veniam
                                                             quis exercitationem mosequatu autem.</p>
                                                         <h6 className="comment_date">17 Apr 2020</h6>
@@ -179,7 +179,7 @@ const BlogDetails = () => {
                                             </li>
                                         </ul>
                                         <div className="comments-pagination">
-                                            <a className="page-numbers" href="#">1</a>
+                                            <a className="page-numbers" href="/">1</a>
                                             <span aria-current="page" className="page-numbers current">2</span>
                                         </div>
                                     </div>
@@ -241,11 +241,11 @@ const BlogDetails = () => {
                                             <p className="intro">Sed ut perspiciatis unde omnis iste natus err or sit voluptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</p>
                                             <div className="author_social">
                                                 <ul>
-                                                    <li><a href="#"><i className="ion-social-facebook"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-twitter"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-pinterest-outline"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-instagram-outline"></i></a></li>
-                                                    <li><a href="#"><i className="ion-social-linkedin"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-facebook"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-twitter"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-pinterest-outline"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-instagram-outline"></i></a></li>
+                                                    <li><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-linkedin"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>

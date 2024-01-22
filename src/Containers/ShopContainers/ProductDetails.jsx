@@ -35,7 +35,7 @@ const ProductDetails = () => {
                         </div>
                         <div className="tab-pane fade" id="reviews" tabindex="0">
                             <div className="review_sec">
-                                <h6 className="review_title">1 review for <a href="#">Product Name</a></h6>
+                                <h6 className="review_title">1 review for <a href="/">Product Name</a></h6>
                                 <ul className="review_area">
                                     {/* <!-- First Review --> */}
                                     <li className="blog_review_user">
@@ -82,7 +82,7 @@ const ProductDetails = () => {
                                 </ul>
                                 <div className="reviews-pagination">
                                     <span aria-current="page" className="page-numbers current">1</span>
-                                    <a className="page-numbers" href="#">2</a>
+                                    <a className="page-numbers" href="/">2</a>
                                 </div>
                             </div>
 

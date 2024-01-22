@@ -12,7 +12,7 @@ const About = () => {
     const AboutBannerData = {
         title: 'Builderrine is proud to serve you 24/7. Just Call Us when you need',
         heading: 'Call Us Anytime',
-        phone: '+99 (1234) 56 789'
+        phone: '(+917)-561-8956'
     }
     return (
         <>
@@ -28,9 +28,9 @@ const About = () => {
                 <Team pb='pd_btom_110' />
 
                 <Banner
-                    title='Is Your House Secured Enough? Call Us to install Security Devices'
-                    heading='Call Us Anytime'
-                    phone='(+123)987.654.32'
+                    title={AboutBannerData.title}
+                    heading={AboutBannerData.heading}
+                    phone={AboutBannerData.phone}
                     bannerType='banner type_3'
                 />
 

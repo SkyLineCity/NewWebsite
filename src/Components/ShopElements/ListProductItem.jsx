@@ -14,7 +14,7 @@ const ListProductItem = ({ data }) => {
                 <div className="product_item_inner">
                     <div className="label_text">
 
-                        <h4 className="product_item_name"><a href="#">{name}</a></h4>
+                        <h4 className="product_item_name"><a href="https://www.instagram.com/skylinecity_team/">{name}</a></h4>
                         <div className="rating">
                             <ul>
                                 <li><i className="fa fa-star"></i></li>
@@ -26,7 +26,7 @@ const ListProductItem = ({ data }) => {
                         </div>
                         <h3 className="product_item_price"><del className={oldClass}>{oldPrice}</del> {price}</h3>
                         <div className="cart_button">
-                            <a href="#" className="button effect_1">
+                            <a href="https://www.instagram.com/skylinecity_team/" className="button effect_1">
                                 Add To Cart
                             </a>
                         </div>

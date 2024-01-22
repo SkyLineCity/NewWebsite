@@ -178,11 +178,11 @@ const ProjectDetailsContainer = () => {
                                                 <div class="post_share">
                                                     <ul class="share_list new_share">
                                                         <li>Share:</li>
-                                                        <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                        <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                        <li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                                        <li class="instagram"><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                                        <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                                        <li class="facebook"><a href="https://www.instagram.com/skylinecity_team/"><i class="fa fa-facebook"></i></a></li>
+                                                        <li class="twitter"><a href="https://www.instagram.com/skylinecity_team/"><i class="fa fa-twitter"></i></a></li>
+                                                        <li class="pinterest"><a href="https://www.instagram.com/skylinecity_team/"><i class="fa fa-pinterest"></i></a></li>
+                                                        <li class="instagram"><a href="https://www.instagram.com/skylinecity_team/"><i class="fa fa-dribbble"></i></a></li>
+                                                        <li class="linkedin"><a href="https://www.instagram.com/skylinecity_team/"><i class="fa fa-linkedin"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -201,14 +201,14 @@ const ProjectDetailsContainer = () => {
                                                 <img src="images/blog/p1.png" alt="img" />
                                                 <div class="post_block">
                                                     <a class="link_to" href="blog-1.html">Previous Post</a>
-                                                    <h4><a href="#">NewYork Apertment</a></h4>
+                                                    <h4><a href="/">NewYork Apertment</a></h4>
                                                 </div>
                                             </div>
                                             <div class="inner-post prev_post">
                                                 <img src="images/blog/p2.png" alt="img" />
                                                 <div class="post_block">
                                                     <a class="link_to" href="blog-2.html">Next Post</a>
-                                                    <h4><a href="#">Under Construction</a></h4>
+                                                    <h4><a href="/">Under Construction</a></h4>
                                                 </div>
                                             </div>
                                         </div>

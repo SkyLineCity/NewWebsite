@@ -33,22 +33,22 @@ const ProductView = () => {
                             <div className="product_zoom">
                                 <ul className="product_zoom_button_group">
                                     <li className="product_zoom_button">
-                                        <a className="selected" href="#" style={{ backgroundImage: `url(images/shop/single/1.jpg)` }}></a>
+                                    <a className="selected" href="/" style={{ backgroundImage: `url(images/shop/single/1.jpg)` }} aria-label="Product Image 1"></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="#" style={{ backgroundImage: `url(images/shop/single/2.jpg)` }}></a>
+                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/2.jpg)` }}></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="#" style={{ backgroundImage: `url(images/shop/single/3.jpg)` }}></a>
+                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/3.jpg)` }}></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="#" style={{ backgroundImage: `url(images/shop/single/4.jpg)` }}></a>
+                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/4.jpg)` }}></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="#" style={{ backgroundImage: `url(images/shop/single/5.jpg)` }}></a>
+                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/5.jpg)` }}></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="#" style={{ backgroundImage: `url(images/shop/single/6.jpg)` }}></a>
+                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/6.jpg)` }}></a>
                                     </li>
                                 </ul>
 
@@ -125,32 +125,32 @@ const ProductView = () => {
                                     </div>
                                 </div>
                                 <div className="wish_button">
-                                    <a href="#"><i className="fa fa-heart-o"></i></a>
+                                    <a href="/"><i className="fa fa-heart-o"></i></a>
                                 </div>
                                 <div className="compare_button">
-                                    <a href="#"><i className="ion-connection-bars"></i></a>
+                                    <a href="/"><i className="ion-connection-bars"></i></a>
                                 </div>
                             </div>
 
                             <div className="cart_button">
-                                <a className="button" href="#" >Add to Cart</a>
+                                <a className="button" href="/" >Add to Cart</a>
                             </div>
 
                             <div className="product_view_bottom_credential">
                                 <ul className="px-0 mb-0">
-                                    <li className="categories"><span>Category:</span> <a href="#">Biulder</a></li>
+                                    <li className="categories"><span>Category:</span> <a href="/">Biulder</a></li>
                                     <li className="sku"><span>SKU:</span> 07</li>
-                                    <li className="tags"><span>Tags:</span> <a href="#">Hardware</a> <a href="#">Metal</a> <a href="#">Cement</a></li>
+                                    <li className="tags"><span>Tags:</span> <a href="/">Hardware</a> <a href="/">Metal</a> <a href="/">Cement</a></li>
                                 </ul>
                             </div>
                             <div className="product_social_share">
                                 <ul>
                                     <li className="label_text">Share:</li>
-                                    <li className="facebook"><a href="#"><i className="ion-social-facebook"></i></a></li>
-                                    <li className="twitter"><a href="#"><i className="ion-social-twitter"></i></a></li>
-                                    <li className="instagram"><a href="#"><i className="ion-social-instagram-outline"></i></a></li>
-                                    <li className="youtube"><a href="#"><i className="ion-social-youtube"></i></a></li>
-                                    <li className="pinterest"><a href="#"><i className="ion-social-pinterest-outline"></i></a></li>
+                                    <li className="facebook"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-facebook"></i></a></li>
+                                    <li className="twitter"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-twitter"></i></a></li>
+                                    <li className="instagram"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-instagram-outline"></i></a></li>
+                                    <li className="youtube"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-youtube"></i></a></li>
+                                    <li className="pinterest"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-pinterest-outline"></i></a></li>
                                 </ul>
                             </div>
                         </div>

@@ -6,7 +6,7 @@ const CategoryItem = ({ data }) => {
     return (
         <li className="category_item">
             <div className="category_item_inner">
-                <div className="cat_name"><a href="#">{name}</a></div>
+                <div className="cat_name"><a href="https://www.instagram.com/skylinecity_team/">{name}</a></div>
                 <span className="cat_toggler">
                     <a data-bs-toggle="collapse" href={href}>
                         <i className="fa fa-chevron-right"></i>
@@ -15,13 +15,13 @@ const CategoryItem = ({ data }) => {
             </div>
             <ul id={toolID} className="child_category collapse">
                 <li>
-                    <div className="cat_name"><a href="#">{item1}</a></div>
+                    <div className="cat_name"><a href="https://www.instagram.com/skylinecity_team/">{item1}</a></div>
                 </li>
                 <li>
-                    <div className="cat_name"><a href="#">{item2}</a></div>
+                    <div className="cat_name"><a href="https://www.instagram.com/skylinecity_team/">{item2}</a></div>
                 </li>
                 <li className={classThree}>
-                    <div className="cat_name"><a href="#">{item3}</a></div>
+                    <div className="cat_name"><a href="https://www.instagram.com/skylinecity_team/">{item3}</a></div>
                 </li>
             </ul>
         </li>

@@ -29,11 +29,11 @@ const Header = () => {
                             <div className="header_social">
                                 <h6>Follow Us</h6>
                                 <ul className="top_social">
-                                    <li className="facebook"><a href="#"><i className="ion-social-facebook"></i></a></li>
-                                    <li className="twitter"><a href="#"><i className="ion-social-twitter"></i></a></li>
-                                    <li className="dribbble"><a href="#"><i className="ion-social-dribbble-outline"></i></a></li>
+                                    <li className="facebook"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-facebook"></i></a></li>
+                                    <li className="twitter"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-twitter"></i></a></li>
+                                    <li className="dribbble"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-dribbble-outline"></i></a></li>
                                     <li className="instagram"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-instagram-outline"></i></a></li>
-                                    <li className="linkedin"><a href="#"><i className="ion-social-linkedin"></i></a></li>
+                                    <li className="linkedin"><a href="https://www.instagram.com/skylinecity_team/"><i className="ion-social-linkedin"></i></a></li>
                                 </ul>
                             </div>
                             <div className="header_info">
@@ -70,26 +70,26 @@ const Header = () => {
                                                 <li className="menu-item"><a href="/home-2">Home Two</a></li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Services</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/services">Services</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/services">Service One</a></li>
                                                 <li className="menu-item"><a href="/services-2">Service Two</a></li>
                                                 <li className="menu-item"><a href="/service-details">Service Details</a></li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Projects</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/project">Projects</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/project">Projects One</a></li>
                                                 <li className="menu-item"><a href="/project-2">Peojects Two</a></li>
                                                 <li className="menu-item"><a href="/project-details">Peojects Details</a></li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Pages</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/">Pages</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/about">About</a></li>
                                                 <li className="menu-item"><a href="/team">Team</a></li>
                                                 <li className="menu-item"><a href="/faq">FAQ</a></li>
-                                                <li className="menu-item menu-item-has-children"><a href="#">Shop</a>
+                                                <li className="menu-item menu-item-has-children"><a href="/project">Shop</a>
                                                     <ul className="sub-menu">
                                                         <li className="menu-item"><a href="/shop-1">Shop One</a></li>
                                                         <li className="menu-item"><a href="/shop-2">Shop Two</a></li>
@@ -102,7 +102,7 @@ const Header = () => {
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Blog</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/">Blog</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/blog-1">Blog One</a></li>
                                                 <li className="menu-item"><a href="/blog-2">Blog Two</a></li>

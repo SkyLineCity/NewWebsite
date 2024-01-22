@@ -9,7 +9,7 @@ const BlogCard02 = ({ data }) => {
                 <div className="post_img">
                     <a href="/blog-2"><img src={img} alt="img" /></a>
                     <div className="calendar position_two">
-                        <a href="#"><span className="date">30</span><br />May</a>
+                        <a href="/about"><span className="date">30</span><br />May</a>
                     </div>
                 </div>
                 <div className="post_content">

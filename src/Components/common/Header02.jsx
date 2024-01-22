@@ -28,26 +28,26 @@ const Header02 = () => {
                                                 <li className="menu-item active"><a href="/home-2">Home Two</a></li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Services</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/">Services</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/services">Service One</a></li>
                                                 <li className="menu-item"><a href="/services-2">Service Two</a></li>
                                                 <li className="menu-item"><a href="/service-details">Service Details</a></li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Projects</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/">Projects</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/project">Projects One</a></li>
                                                 <li className="menu-item"><a href="/project-2">Peojects Two</a></li>
                                                 <li className="menu-item"><a href="/project-details">Peojects Details</a></li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Pages</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/">Pages</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/about">About</a></li>
                                                 <li className="menu-item"><a href="/team">Team</a></li>
                                                 <li className="menu-item"><a href="/faq">FAQ</a></li>
-                                                <li className="menu-item menu-item-has-children"><a href="#">Shop</a>
+                                                <li className="menu-item menu-item-has-children"><a href="/">Shop</a>
                                                     <ul className="sub-menu">
                                                         <li className="menu-item"><a href="/shop-1">Shop One</a></li>
                                                         <li className="menu-item"><a href="/shop-2">Shop Two</a></li>
@@ -60,7 +60,7 @@ const Header02 = () => {
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="menu-item menu-item-has-children"><a href="#">Blog</a>
+                                        <li className="menu-item menu-item-has-children"><a href="/">Blog</a>
                                             <ul className="sub-menu">
                                                 <li className="menu-item"><a href="/blog-1">Blog One</a></li>
                                                 <li className="menu-item"><a href="/blog-2">Blog Two</a></li>

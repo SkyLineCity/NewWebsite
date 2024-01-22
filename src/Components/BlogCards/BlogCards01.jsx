@@ -8,7 +8,7 @@ const BlogCards01 = ({ data }) => {
                 <div className="post_img">
                     <a href="/blog-1"><img src={img} alt="img" /></a>
                     <div className="calendar">
-                        <a href="#"><span className="date">30</span><br />May</a>
+                        <a href="/about"><span className="date">30</span><br />May</a>
                     </div>
                 </div>
                 <div className="post_content">
