@@ -17,19 +17,19 @@ const TeamCard02 = ({ data }) => {
                 <div className="team_hover_content">
                     <ul className="speakers-social-lists-simple">
                         <li>
-                            <a href="https://www.facebook.com/" className="fa fa-facebook-square"></a>
+                            <a href="https://www.facebook.com/" className="fa fa-facebook-square" aria-label="Facebook"></a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/" className="fa fa-twitter"></a>
+                            <a href="https://twitter.com/" className="fa fa-twitter" aria-label="Twitter"></a>
                         </li>
                         <li>
-                            <a href="https://linkedin.com/" className="fa fa-linkedin"></a>
+                            <a href="https://linkedin.com/" className="fa fa-linkedin" aria-label="LinkedIn"></a>
                         </li>
                         <li>
-                            <a href="https://linkedin.com/" className="fa fa-linkedin"></a>
+                            <a href="https://linkedin.com/" className="fa fa-linkedin" aria-label="LinkedIn"></a>
                         </li>
                         <li>
-                            <a href="https://linkedin.com/" className="fa fa-linkedin"></a>
+                            <a href="https://linkedin.com/" className="fa fa-linkedin" aria-label="LinkedIn"></a>
                         </li>
                     </ul>
                     <h2 className="speaker-title-simple">

@@ -4,7 +4,7 @@ import LazyLoad from 'react-lazyload';
 
 const ProjectCard01 = ({ data }) => {
     const targetRef = useRef();
-    const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
+    const [setDimensions] = useState({ width: 0, height: 0 });
     const windowSize = useRef([window.innerWidth, window.innerHeight]);
     const monitorWidth = windowSize.current[0];
 

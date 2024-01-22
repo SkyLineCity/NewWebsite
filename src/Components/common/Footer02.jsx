@@ -93,7 +93,7 @@ const Footer02 = () => {
                 <div className="container">
                     <div className="footer_bottom_inner">
                         <div className="copyright">
-                            <p>&copy;2024 Website Designed & Maintained <a>by</a> AG Webdesign.</p>
+                            <p>&copy;2024 Website Designed & Maintained <a href="https://www.instagram.com/skylinecity_team/">by</a> AG Webdesign.</p>
                         </div>
                         <div className="totop">
                             <a href="/"><i className="ion-ios-arrow-up"></i></a>

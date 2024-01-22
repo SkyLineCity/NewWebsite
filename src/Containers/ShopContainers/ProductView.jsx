@@ -36,19 +36,19 @@ const ProductView = () => {
                                     <a className="selected" href="/" style={{ backgroundImage: `url(images/shop/single/1.jpg)` }} aria-label="Product Image 1"></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/2.jpg)` }}></a>
+                                    <a href="/" style={{ backgroundImage: `url(images/shop/single/2.jpg)` }} aria-label="Product Image 2"></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/3.jpg)` }}></a>
+                                    <a href="/" style={{ backgroundImage: `url(images/shop/single/3.jpg)` }} aria-label="Product Image 3"></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/4.jpg)` }}></a>
+                                    <a href="/" style={{ backgroundImage: `url(images/shop/single/4.jpg)` }} aria-label="Product Image 4"></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/5.jpg)` }}></a>
+                                    <a href="/" style={{ backgroundImage: `url(images/shop/single/5.jpg)` }} aria-label="Product Image 5"></a>
                                     </li>
                                     <li className="product_zoom_button">
-                                        <a href="/" style={{ backgroundImage: `url(images/shop/single/6.jpg)` }}></a>
+                                    <a href="/" style={{ backgroundImage: `url(images/shop/single/6.jpg)` }} aria-label="Product Image 6"></a>
                                     </li>
                                 </ul>
 
