@@ -8,7 +8,7 @@ const Slider = () => {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="slide_content">
-                                <h5 className="sub_heading">CALL US ANYTIME<span> +718-775-8511</span></h5>
+                                <h5 className="sub_heading">CALL US ANYTIME<span>(917)-561-8956</span></h5>
                                 <h2 className="heading">Where You Find Best Builders</h2>
                                 <p className="desc">Safe, Reliable and Cost Effective Construction company. We offer best construction Services.</p>
                                 <div className="slider_button">
