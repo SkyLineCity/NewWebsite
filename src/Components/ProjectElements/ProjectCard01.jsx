@@ -18,7 +18,7 @@ const ProjectCard01 = ({ data }) => {
                 height: targetRef.current.offsetHeight
             });
         }
-    }, []);
+    }, [setDimensions]);
 
     //let elHeight = Number(dimensions.height);
     // console.log(typeof elHeight);
@@ -63,3 +63,4 @@ const ProjectCard01 = ({ data }) => {
 };
 
 export default ProjectCard01;
+
