@@ -85,7 +85,7 @@ const Footer = () => {
                             <a href="index"><img src="images/Skct_logo.jpg" alt="Logo" /></a>
                         </div>
                         <div className="copyright">
-                            <p>&copy;2024 Website Designed & Maintained <a href="https://www.instagram.com/skylinecity_team/">by</a> AG Webdesign.</p>
+                        <p>&copy;2023 <a href="https://themeforest.net/user/wpthemebooster">WPThemeBooster.</a> All rights reserved.</p>
                         </div>
                         <div className="totop">
                             <a href="/"><i className="ion-ios-arrow-up"></i></a>
