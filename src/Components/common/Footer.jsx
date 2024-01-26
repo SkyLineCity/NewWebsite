@@ -85,7 +85,7 @@ const Footer = () => {
                             <a href="index"><img src="images/Skct_logo.jpg" alt="Logo" /></a>
                         </div>
                         <div className="copyright">
-                            <p>&copy;2024 Website Designed & Maintained <a>by</a> AG Webdesign.</p>
+                            <p>&copy;2024 Website Designed & Maintained by AG Webdesign.</p>
                         </div>
                         <div className="totop">
                             <a href="/"><i className="ion-ios-arrow-up"></i></a>
